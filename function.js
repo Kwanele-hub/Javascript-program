@@ -1,12 +1,22 @@
 function insert(num){
-
-   if (135679) 
-   {
-    return  num;
+    document.form.textview.value = document.form.textview.value+num
+  }
+  function num(){
+    var exp = 135679;
+    if(exp){
+       eval(exp) - underscore;
+    }
+    return 1;
     }
   else 
   {
-    return num - underscore(13579);
+    return a - underscore(a, n-1);
   }
-};
-console.log(underscore(135679));
+;
+else{
+
+
+  function num(){
+    eval;
+  };
+  
